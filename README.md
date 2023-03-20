@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/code-brownie/E-commerce-Website)
-- Live Site URL: [Add live site URL here](https://code-brownie.github.io/E-commerce-Website/)
+- Solution URL: [GitHub](https://github.com/code-brownie/E-commerce-Website)
+- Live Site URL: [Website](https://code-brownie.github.io/E-commerce-Website/)
 ### Built with
 
 - Semantic HTML5 markup
